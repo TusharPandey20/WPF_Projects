@@ -1,0 +1,7 @@
+D:\Projects\ConsoleProjects\mvs\bin\Debug\mvs.exe.config
+D:\Projects\ConsoleProjects\mvs\bin\Debug\mvs.exe
+D:\Projects\ConsoleProjects\mvs\bin\Debug\mvs.pdb
+D:\Projects\ConsoleProjects\mvs\obj\Debug\mvs.csproj.AssemblyReference.cache
+D:\Projects\ConsoleProjects\mvs\obj\Debug\mvs.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleProjects\mvs\obj\Debug\mvs.exe
+D:\Projects\ConsoleProjects\mvs\obj\Debug\mvs.pdb
