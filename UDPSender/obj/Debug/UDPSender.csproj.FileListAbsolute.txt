@@ -1,0 +1,15 @@
+D:\Projects\Projects\UDPSender\bin\Debug\UDPSender.exe.config
+D:\Projects\Projects\UDPSender\bin\Debug\UDPSender.exe
+D:\Projects\Projects\UDPSender\bin\Debug\UDPSender.pdb
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.csproj.AssemblyReference.cache
+D:\Projects\Projects\UDPSender\obj\Debug\MainWindow.g.cs
+D:\Projects\Projects\UDPSender\obj\Debug\App.g.cs
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender_MarkupCompile.cache
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender_MarkupCompile.lref
+D:\Projects\Projects\UDPSender\obj\Debug\MainWindow.baml
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.g.resources
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.Properties.Resources.resources
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.csproj.GenerateResource.cache
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.csproj.CoreCompileInputs.cache
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.exe
+D:\Projects\Projects\UDPSender\obj\Debug\UDPSender.pdb
